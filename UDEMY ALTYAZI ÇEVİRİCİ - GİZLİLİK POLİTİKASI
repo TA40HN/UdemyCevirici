@@ -1,0 +1,56 @@
+UDEMY ALTYAZI ÇEVİRİCİ - GİZLİLİK POLİTİKASI
+Son güncelleme: 17 Nisan 2024
+
+Bu gizlilik politikası, \"Udemy Altyazı Çevirici\" Chrome uzantısının kullanıcı gizliliği yaklaşımını açıklamaktadır. Uzantımızı kullanarak bu politikada belirtilen uygulamaları kabul etmiş sayılırsınız.
+
+1. TOPLANAN BİLGİLER
+
+Udemy Altyazı Çevirici uzantısı, kullanıcı deneyimini iyileştirmek için aşağıdaki bilgileri YALNIZCA YEREL OLARAK toplar ve saklar:
+
+- Tercih edilen çeviri dili (varsayılan olarak Türkçe)
+- Uzantının etkinleştirilme durumu (açık/kapalı)
+- Çevirilen altyazılar (performans için önbellek olarak, yalnızca tarayıcı oturumu süresince)
+
+Bu bilgiler Chrome tarayıcınızın yerel depolama alanında saklanır ve hiçbir şekilde bizim veya üçüncü taraf sunucularına gönderilmez veya toplanmaz.
+
+2. GOOGLE TRANSLATE API KULLANIMI
+
+Uzantımız, altyazıları çevirmek için Google Translate API hizmetini kullanmaktadır. Çevrilecek metin, Google'ın çeviri servislerine gönderilir. Bu hizmetin kullanımı, Google'ın kendi gizlilik politikasına tabidir. Sadece çevrilecek metin Google'a gönderilir, başka hiçbir kişisel bilgi paylaşılmaz.
+
+3. İZİNLER VE KULLANIMLARI
+
+Uzantımız aşağıdaki izinleri kullanır:
+
+- storage: Tercih ettiğiniz dil ve uzantı etkinlik durumunu kaydetmek için kullanılır.
+- activeTab: Mevcut Udemy sayfasındaki altyazı öğelerine erişmek ve onları değiştirmek için kullanılır.
+- scripting: Altyazıları değiştirmek için gerekli komut dosyası işlemlerini gerçekleştirmek için kullanılır.
+- host_permissions (*.udemy.com): Uzantının yalnızca Udemy web sitesinde çalışmasını sağlar.
+- host_permissions (translate.googleapis.com): Altyazıları çevirmek için Google Translate API'sine erişim sağlar.
+
+4. VERİ PAYLAŞIMI
+
+Uzantımız, topladığı verileri hiçbir üçüncü taraf veya kuruluşla paylaşmaz. Çeviri amacıyla gönderilen metinler yalnızca Google Translate API ile paylaşılır.
+
+5. ÇEREZLER VE İZLEME TEKNOLOJİLERİ
+
+Uzantımız çerez (cookie) veya benzeri izleme teknolojileri kullanmaz.
+
+6. VERİ GÜVENLİĞİ
+
+Tüm veriler yerel olarak saklandığından, veri güvenliği Chrome tarayıcısının güvenlik özellikleri tarafından sağlanır. Uzantımız internet üzerinden veri aktarımı yapmaz, yalnızca çeviri için gerekli metinleri Google Translate API'sine gönderir.
+
+7. ÇOCUKLARIN GİZLİLİĞİ
+
+Uzantımız herhangi bir yaş grubuna özel olarak hedeflenmemiştir ve kullanıcılardan yaş bilgisi talep etmez. Herhangi bir kişisel veri toplanmadığı için, çocukların gizliliği konusunda özel önlemler gerekmemektedir.
+
+8. POLİTİKA DEĞİŞİKLİKLERİ
+
+Bu gizlilik politikası güncellenebilir. Önemli değişiklikler olması durumunda, uzantının tanım sayfası üzerinden bilgilendirme yapılacaktır.
+
+9. İLETİŞİM
+
+Bu gizlilik politikası veya uzantımız hakkında sorularınız varsa, lütfen aşağıdaki iletişim bilgileri üzerinden bizimle iletişime geçin:
+
+E-posta: [E-posta adresiniz]
+
+Bu gizlilik politikası, Udemy Altyazı Çevirici Chrome uzantısının gizlilik uygulamalarını açıklamak amacıyla hazırlanmıştır.
